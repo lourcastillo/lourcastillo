@@ -6,3 +6,5 @@
 - Twitter <a href="https://www.twitter.com/lourcastle"> lourcastle</a> 💬
 - Instagram <a href="https://www.instagram.com/lourcastillo"> lourcastillo</a> 🎀
 - Sharing some mozillians news <a href="https://discourse.mozilla.org/u/lourcastillo/summary">Discourse</a> 🔭
+
+![lourcastillo's github stats](https://github-readme-stats.vercel.app/api?username=lourcastillo&show_icons=true&hide=[%22issues%22])
