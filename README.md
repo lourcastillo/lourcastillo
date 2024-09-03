@@ -21,7 +21,7 @@
 ## Find me around the web 🌎:
 - Networking to share updates on <a href="https://www.linkedin.com/in/lourcastillo/">Linkedin</a> 💼
 - X <a href="https://x.com/lourcastle"> lourcastle</a> 💬
-- Instagram <a href="https://www.instagram.com/lourcastillo"> lourcastillo</a> 🎀
+- Instagram <a href="https://www.instagram.com/lourcastillo.py"> lourcastillo.py</a> 🎀
 - Sharing some mozillians news <a href="https://discourse.mozilla.org/u/lourcastillo/summary">Discourse</a> 🔭
 
 ### :fire: My Stats :
