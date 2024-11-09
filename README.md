@@ -3,7 +3,7 @@
 <div align="center"> 
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=lourcastillo&theme=discord&column=9&margin-w=15&margin-h=15)](https://github.com/lourcastillo/github-profile-trophy)  
-  <p>Highly motivated Quality Assurance Engineer with 5+ years of experience and a passionate bug hunter. Concerned about delivering fluent communication and speak sincerely and confidently with the Software Delivery Team, the most important thing is generating value for the business preventing production issues, and with the best value and quality for the product. Mozilla Community volunteer in Chile <a href="https://community.mozilla.org/people/lourcastillo/">Community Mozilla Portal 🌟</a></p>
+  <p>Highly motivated Quality Assurance Engineer with 9+ years of experience and a passionate bug hunter. Concerned about delivering fluent communication and speak sincerely and confidently with the Software Delivery Team, the most important thing is generating value for the business preventing production issues, and with the best value and quality for the product. Mozilla Community volunteer in Chile <a href="https://community.mozilla.org/people/lourcastillo/">Community Mozilla Portal 🌟</a></p>
   
 </div>
 
